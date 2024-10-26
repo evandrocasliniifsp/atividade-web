@@ -1,0 +1,19 @@
+{
+  "name": "avaliacao",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "start:backend": "npx json-server db.json",
+    "start:frontend": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.4.9"
+  },
+  "dependencies": {
+    "appwrite": "^16.0.2",
+    "json-server": "^1.0.0-beta.3"
+  }
+}

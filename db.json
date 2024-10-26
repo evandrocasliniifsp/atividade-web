@@ -1,0 +1,34 @@
+{
+  "score": [
+    {
+      "id": "1",
+      "name": "Wellington Webert",
+      "score": 96,
+      "game": "mario brois"
+    },
+    {
+      "id": "2",
+      "name": "Wallace Wolomi",
+      "score": 50,
+      "game": "crash bandicot"
+    },
+    {
+      "id": "3",
+      "name": "Arthur shelby",
+      "score": 67,
+      "game": "futebol"
+    },
+    {
+      "id": "4",
+      "name": "Arthur shelby",
+      "score": 67,
+      "game": "criquet"
+    },
+    {
+      "id": "f315",
+      "name": "teste",
+      "score": "1",
+      "game": "game"
+    }
+  ]
+}
